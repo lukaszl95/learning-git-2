@@ -1,12 +1,14 @@
 body {
 	text-align: center;
 	color: #070766;
+	background: #fff;
 }
 p {
 	color: #e11414;
 }
 h1 {
 	margin-bottom: 0;
+	color: red;
 }
 h2 {
 	margin-top: 0;
